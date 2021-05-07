@@ -8,4 +8,5 @@ public interface UserService {
 	boolean login(String eMail, String password);
 	void logout(User user);
 	List<User> getAll();
+	//deneme1
 }
